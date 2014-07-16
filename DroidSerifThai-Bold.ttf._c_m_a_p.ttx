@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0xd" name="nonmarkingreturn"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0xe01" name="uni0E01"/><!-- THAI CHARACTER KO KAI -->
+      <map code="0xe02" name="uni0E02"/><!-- THAI CHARACTER KHO KHAI -->
+      <map code="0xe03" name="uni0E03"/><!-- THAI CHARACTER KHO KHUAT -->
+      <map code="0xe04" name="uni0E04"/><!-- THAI CHARACTER KHO KHWAI -->
+      <map code="0xe05" name="uni0E05"/><!-- THAI CHARACTER KHO KHON -->
+      <map code="0xe06" name="uni0E06"/><!-- THAI CHARACTER KHO RAKHANG -->
+      <map code="0xe07" name="uni0E07"/><!-- THAI CHARACTER NGO NGU -->
+      <map code="0xe08" name="uni0E08"/><!-- THAI CHARACTER CHO CHAN -->
+      <map code="0xe09" name="uni0E09"/><!-- THAI CHARACTER CHO CHING -->
+      <map code="0xe0a" name="uni0E0A"/><!-- THAI CHARACTER CHO CHANG -->
+      <map code="0xe0b" name="uni0E0B"/><!-- THAI CHARACTER SO SO -->
+      <map code="0xe0c" name="uni0E0C"/><!-- THAI CHARACTER CHO CHOE -->
+      <map code="0xe0d" name="uni0E0D"/><!-- THAI CHARACTER YO YING -->
+      <map code="0xe0e" name="uni0E0E"/><!-- THAI CHARACTER DO CHADA -->
+      <map code="0xe0f" name="uni0E0F"/><!-- THAI CHARACTER TO PATAK -->
+      <map code="0xe10" name="uni0E10"/><!-- THAI CHARACTER THO THAN -->
+      <map code="0xe11" name="uni0E11"/><!-- THAI CHARACTER THO NANGMONTHO -->
+      <map code="0xe12" name="uni0E12"/><!-- THAI CHARACTER THO PHUTHAO -->
+      <map code="0xe13" name="uni0E13"/><!-- THAI CHARACTER NO NEN -->
+      <map code="0xe14" name="uni0E14"/><!-- THAI CHARACTER DO DEK -->
+      <map code="0xe15" name="uni0E15"/><!-- THAI CHARACTER TO TAO -->
+      <map code="0xe16" name="uni0E16"/><!-- THAI CHARACTER THO THUNG -->
+      <map code="0xe17" name="uni0E17"/><!-- THAI CHARACTER THO THAHAN -->
+      <map code="0xe18" name="uni0E18"/><!-- THAI CHARACTER THO THONG -->
+      <map code="0xe19" name="uni0E19"/><!-- THAI CHARACTER NO NU -->
+      <map code="0xe1a" name="uni0E1A"/><!-- THAI CHARACTER BO BAIMAI -->
+      <map code="0xe1b" name="uni0E1B"/><!-- THAI CHARACTER PO PLA -->
+      <map code="0xe1c" name="uni0E1C"/><!-- THAI CHARACTER PHO PHUNG -->
+      <map code="0xe1d" name="uni0E1D"/><!-- THAI CHARACTER FO FA -->
+      <map code="0xe1e" name="uni0E1E"/><!-- THAI CHARACTER PHO PHAN -->
+      <map code="0xe1f" name="uni0E1F"/><!-- THAI CHARACTER FO FAN -->
+      <map code="0xe20" name="uni0E20"/><!-- THAI CHARACTER PHO SAMPHAO -->
+      <map code="0xe21" name="uni0E21"/><!-- THAI CHARACTER MO MA -->
+      <map code="0xe22" name="uni0E22"/><!-- THAI CHARACTER YO YAK -->
+      <map code="0xe23" name="uni0E23"/><!-- THAI CHARACTER RO RUA -->
+      <map code="0xe24" name="uni0E24"/><!-- THAI CHARACTER RU -->
+      <map code="0xe25" name="uni0E25"/><!-- THAI CHARACTER LO LING -->
+      <map code="0xe26" name="uni0E26"/><!-- THAI CHARACTER LU -->
+      <map code="0xe27" name="uni0E27"/><!-- THAI CHARACTER WO WAEN -->
+      <map code="0xe28" name="uni0E28"/><!-- THAI CHARACTER SO SALA -->
+      <map code="0xe29" name="uni0E29"/><!-- THAI CHARACTER SO RUSI -->
+      <map code="0xe2a" name="uni0E2A"/><!-- THAI CHARACTER SO SUA -->
+      <map code="0xe2b" name="uni0E2B"/><!-- THAI CHARACTER HO HIP -->
+      <map code="0xe2c" name="uni0E2C"/><!-- THAI CHARACTER LO CHULA -->
+      <map code="0xe2d" name="uni0E2D"/><!-- THAI CHARACTER O ANG -->
+      <map code="0xe2e" name="uni0E2E"/><!-- THAI CHARACTER HO NOKHUK -->
+      <map code="0xe2f" name="uni0E2F"/><!-- THAI CHARACTER PAIYANNOI -->
+      <map code="0xe30" name="uni0E30"/><!-- THAI CHARACTER SARA A -->
+      <map code="0xe31" name="uni0E31"/><!-- THAI CHARACTER MAI HAN-AKAT -->
+      <map code="0xe32" name="uni0E32"/><!-- THAI CHARACTER SARA AA -->
+      <map code="0xe33" name="uni0E33"/><!-- THAI CHARACTER SARA AM -->
+      <map code="0xe34" name="uni0E34"/><!-- THAI CHARACTER SARA I -->
+      <map code="0xe35" name="uni0E35"/><!-- THAI CHARACTER SARA II -->
+      <map code="0xe36" name="uni0E36"/><!-- THAI CHARACTER SARA UE -->
+      <map code="0xe37" name="uni0E37"/><!-- THAI CHARACTER SARA UEE -->
+      <map code="0xe38" name="uni0E38"/><!-- THAI CHARACTER SARA U -->
+      <map code="0xe39" name="uni0E39"/><!-- THAI CHARACTER SARA UU -->
+      <map code="0xe3a" name="uni0E3A"/><!-- THAI CHARACTER PHINTHU -->
+      <map code="0xe3f" name="uni0E3F"/><!-- THAI CURRENCY SYMBOL BAHT -->
+      <map code="0xe40" name="uni0E40"/><!-- THAI CHARACTER SARA E -->
+      <map code="0xe41" name="uni0E41"/><!-- THAI CHARACTER SARA AE -->
+      <map code="0xe42" name="uni0E42"/><!-- THAI CHARACTER SARA O -->
+      <map code="0xe43" name="uni0E43"/><!-- THAI CHARACTER SARA AI MAIMUAN -->
+      <map code="0xe44" name="uni0E44"/><!-- THAI CHARACTER SARA AI MAIMALAI -->
+      <map code="0xe45" name="uni0E45"/><!-- THAI CHARACTER LAKKHANGYAO -->
+      <map code="0xe46" name="uni0E46"/><!-- THAI CHARACTER MAIYAMOK -->
+      <map code="0xe47" name="uni0E47"/><!-- THAI CHARACTER MAITAIKHU -->
+      <map code="0xe48" name="uni0E48.small"/><!-- THAI CHARACTER MAI EK -->
+      <map code="0xe49" name="uni0E49.small"/><!-- THAI CHARACTER MAI THO -->
+      <map code="0xe4a" name="uni0E4A.small"/><!-- THAI CHARACTER MAI TRI -->
+      <map code="0xe4b" name="uni0E4B.small"/><!-- THAI CHARACTER MAI CHATTAWA -->
+      <map code="0xe4c" name="uni0E4C.small"/><!-- THAI CHARACTER THANTHAKHAT -->
+      <map code="0xe4d" name="uni0E4D"/><!-- THAI CHARACTER NIKHAHIT -->
+      <map code="0xe4e" name="uni0E4E"/><!-- THAI CHARACTER YAMAKKAN -->
+      <map code="0xe4f" name="uni0E4F"/><!-- THAI CHARACTER FONGMAN -->
+      <map code="0xe50" name="uni0E50"/><!-- THAI DIGIT ZERO -->
+      <map code="0xe51" name="uni0E51"/><!-- THAI DIGIT ONE -->
+      <map code="0xe52" name="uni0E52"/><!-- THAI DIGIT TWO -->
+      <map code="0xe53" name="uni0E53"/><!-- THAI DIGIT THREE -->
+      <map code="0xe54" name="uni0E54"/><!-- THAI DIGIT FOUR -->
+      <map code="0xe55" name="uni0E55"/><!-- THAI DIGIT FIVE -->
+      <map code="0xe56" name="uni0E56"/><!-- THAI DIGIT SIX -->
+      <map code="0xe57" name="uni0E57"/><!-- THAI DIGIT SEVEN -->
+      <map code="0xe58" name="uni0E58"/><!-- THAI DIGIT EIGHT -->
+      <map code="0xe59" name="uni0E59"/><!-- THAI DIGIT NINE -->
+      <map code="0xe5a" name="uni0E5A"/><!-- THAI CHARACTER ANGKHANKHU -->
+      <map code="0xe5b" name="uni0E5B"/><!-- THAI CHARACTER KHOMUT -->
+      <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+    </cmap_format_4>
+    <cmap_format_0 platformID="1" platEncID="0" language="0">
+      <map code="0x0" name="uni000D"/>
+      <map code="0x1" name=".notdef"/>
+      <map code="0x2" name=".notdef"/>
+      <map code="0x3" name=".notdef"/>
+      <map code="0x4" name=".notdef"/>
+      <map code="0x5" name=".notdef"/>
+      <map code="0x6" name=".notdef"/>
+      <map code="0x7" name=".notdef"/>
+      <map code="0x8" name="uni000D"/>
+      <map code="0x9" name="nonmarkingreturn"/>
+      <map code="0xa" name="nonmarkingreturn"/>
+      <map code="0xb" name=".notdef"/>
+      <map code="0xc" name=".notdef"/>
+      <map code="0xd" name="nonmarkingreturn"/>
+      <map code="0xe" name=".notdef"/>
+      <map code="0xf" name=".notdef"/>
+      <map code="0x10" name=".notdef"/>
+      <map code="0x11" name=".notdef"/>
+      <map code="0x12" name=".notdef"/>
+      <map code="0x13" name=".notdef"/>
+      <map code="0x14" name=".notdef"/>
+      <map code="0x15" name=".notdef"/>
+      <map code="0x16" name=".notdef"/>
+      <map code="0x17" name=".notdef"/>
+      <map code="0x18" name=".notdef"/>
+      <map code="0x19" name=".notdef"/>
+      <map code="0x1a" name=".notdef"/>
+      <map code="0x1b" name=".notdef"/>
+      <map code="0x1c" name=".notdef"/>
+      <map code="0x1d" name="uni000D"/>
+      <map code="0x1e" name=".notdef"/>
+      <map code="0x1f" name=".notdef"/>
+      <map code="0x20" name="space"/>
+      <map code="0x21" name=".notdef"/>
+      <map code="0x22" name=".notdef"/>
+      <map code="0x23" name=".notdef"/>
+      <map code="0x24" name=".notdef"/>
+      <map code="0x25" name=".notdef"/>
+      <map code="0x26" name=".notdef"/>
+      <map code="0x27" name=".notdef"/>
+      <map code="0x28" name=".notdef"/>
+      <map code="0x29" name=".notdef"/>
+      <map code="0x2a" name=".notdef"/>
+      <map code="0x2b" name=".notdef"/>
+      <map code="0x2c" name=".notdef"/>
+      <map code="0x2d" name=".notdef"/>
+      <map code="0x2e" name=".notdef"/>
+      <map code="0x2f" name=".notdef"/>
+      <map code="0x30" name=".notdef"/>
+      <map code="0x31" name=".notdef"/>
+      <map code="0x32" name=".notdef"/>
+      <map code="0x33" name=".notdef"/>
+      <map code="0x34" name=".notdef"/>
+      <map code="0x35" name=".notdef"/>
+      <map code="0x36" name=".notdef"/>
+      <map code="0x37" name=".notdef"/>
+      <map code="0x38" name=".notdef"/>
+      <map code="0x39" name=".notdef"/>
+      <map code="0x3a" name=".notdef"/>
+      <map code="0x3b" name=".notdef"/>
+      <map code="0x3c" name=".notdef"/>
+      <map code="0x3d" name=".notdef"/>
+      <map code="0x3e" name=".notdef"/>
+      <map code="0x3f" name=".notdef"/>
+      <map code="0x40" name=".notdef"/>
+      <map code="0x41" name=".notdef"/>
+      <map code="0x42" name=".notdef"/>
+      <map code="0x43" name=".notdef"/>
+      <map code="0x44" name=".notdef"/>
+      <map code="0x45" name=".notdef"/>
+      <map code="0x46" name=".notdef"/>
+      <map code="0x47" name=".notdef"/>
+      <map code="0x48" name=".notdef"/>
+      <map code="0x49" name=".notdef"/>
+      <map code="0x4a" name=".notdef"/>
+      <map code="0x4b" name=".notdef"/>
+      <map code="0x4c" name=".notdef"/>
+      <map code="0x4d" name=".notdef"/>
+      <map code="0x4e" name=".notdef"/>
+      <map code="0x4f" name=".notdef"/>
+      <map code="0x50" name=".notdef"/>
+      <map code="0x51" name=".notdef"/>
+      <map code="0x52" name=".notdef"/>
+      <map code="0x53" name=".notdef"/>
+      <map code="0x54" name=".notdef"/>
+      <map code="0x55" name=".notdef"/>
+      <map code="0x56" name=".notdef"/>
+      <map code="0x57" name=".notdef"/>
+      <map code="0x58" name=".notdef"/>
+      <map code="0x59" name=".notdef"/>
+      <map code="0x5a" name=".notdef"/>
+      <map code="0x5b" name=".notdef"/>
+      <map code="0x5c" name=".notdef"/>
+      <map code="0x5d" name=".notdef"/>
+      <map code="0x5e" name=".notdef"/>
+      <map code="0x5f" name=".notdef"/>
+      <map code="0x60" name=".notdef"/>
+      <map code="0x61" name=".notdef"/>
+      <map code="0x62" name=".notdef"/>
+      <map code="0x63" name=".notdef"/>
+      <map code="0x64" name=".notdef"/>
+      <map code="0x65" name=".notdef"/>
+      <map code="0x66" name=".notdef"/>
+      <map code="0x67" name=".notdef"/>
+      <map code="0x68" name=".notdef"/>
+      <map code="0x69" name=".notdef"/>
+      <map code="0x6a" name=".notdef"/>
+      <map code="0x6b" name=".notdef"/>
+      <map code="0x6c" name=".notdef"/>
+      <map code="0x6d" name=".notdef"/>
+      <map code="0x6e" name=".notdef"/>
+      <map code="0x6f" name=".notdef"/>
+      <map code="0x70" name=".notdef"/>
+      <map code="0x71" name=".notdef"/>
+      <map code="0x72" name=".notdef"/>
+      <map code="0x73" name=".notdef"/>
+      <map code="0x74" name=".notdef"/>
+      <map code="0x75" name=".notdef"/>
+      <map code="0x76" name=".notdef"/>
+      <map code="0x77" name=".notdef"/>
+      <map code="0x78" name=".notdef"/>
+      <map code="0x79" name=".notdef"/>
+      <map code="0x7a" name=".notdef"/>
+      <map code="0x7b" name=".notdef"/>
+      <map code="0x7c" name=".notdef"/>
+      <map code="0x7d" name=".notdef"/>
+      <map code="0x7e" name=".notdef"/>
+      <map code="0x7f" name=".notdef"/>
+      <map code="0x80" name=".notdef"/>
+      <map code="0x81" name=".notdef"/>
+      <map code="0x82" name=".notdef"/>
+      <map code="0x83" name=".notdef"/>
+      <map code="0x84" name=".notdef"/>
+      <map code="0x85" name=".notdef"/>
+      <map code="0x86" name=".notdef"/>
+      <map code="0x87" name=".notdef"/>
+      <map code="0x88" name=".notdef"/>
+      <map code="0x89" name=".notdef"/>
+      <map code="0x8a" name=".notdef"/>
+      <map code="0x8b" name=".notdef"/>
+      <map code="0x8c" name=".notdef"/>
+      <map code="0x8d" name=".notdef"/>
+      <map code="0x8e" name=".notdef"/>
+      <map code="0x8f" name=".notdef"/>
+      <map code="0x90" name=".notdef"/>
+      <map code="0x91" name=".notdef"/>
+      <map code="0x92" name=".notdef"/>
+      <map code="0x93" name=".notdef"/>
+      <map code="0x94" name=".notdef"/>
+      <map code="0x95" name=".notdef"/>
+      <map code="0x96" name=".notdef"/>
+      <map code="0x97" name=".notdef"/>
+      <map code="0x98" name=".notdef"/>
+      <map code="0x99" name=".notdef"/>
+      <map code="0x9a" name=".notdef"/>
+      <map code="0x9b" name=".notdef"/>
+      <map code="0x9c" name=".notdef"/>
+      <map code="0x9d" name=".notdef"/>
+      <map code="0x9e" name=".notdef"/>
+      <map code="0x9f" name=".notdef"/>
+      <map code="0xa0" name=".notdef"/>
+      <map code="0xa1" name=".notdef"/>
+      <map code="0xa2" name=".notdef"/>
+      <map code="0xa3" name=".notdef"/>
+      <map code="0xa4" name=".notdef"/>
+      <map code="0xa5" name=".notdef"/>
+      <map code="0xa6" name=".notdef"/>
+      <map code="0xa7" name=".notdef"/>
+      <map code="0xa8" name=".notdef"/>
+      <map code="0xa9" name=".notdef"/>
+      <map code="0xaa" name=".notdef"/>
+      <map code="0xab" name=".notdef"/>
+      <map code="0xac" name=".notdef"/>
+      <map code="0xad" name=".notdef"/>
+      <map code="0xae" name=".notdef"/>
+      <map code="0xaf" name=".notdef"/>
+      <map code="0xb0" name=".notdef"/>
+      <map code="0xb1" name=".notdef"/>
+      <map code="0xb2" name=".notdef"/>
+      <map code="0xb3" name=".notdef"/>
+      <map code="0xb4" name=".notdef"/>
+      <map code="0xb5" name=".notdef"/>
+      <map code="0xb6" name=".notdef"/>
+      <map code="0xb7" name=".notdef"/>
+      <map code="0xb8" name=".notdef"/>
+      <map code="0xb9" name=".notdef"/>
+      <map code="0xba" name=".notdef"/>
+      <map code="0xbb" name=".notdef"/>
+      <map code="0xbc" name=".notdef"/>
+      <map code="0xbd" name=".notdef"/>
+      <map code="0xbe" name=".notdef"/>
+      <map code="0xbf" name=".notdef"/>
+      <map code="0xc0" name=".notdef"/>
+      <map code="0xc1" name=".notdef"/>
+      <map code="0xc2" name=".notdef"/>
+      <map code="0xc3" name=".notdef"/>
+      <map code="0xc4" name=".notdef"/>
+      <map code="0xc5" name=".notdef"/>
+      <map code="0xc6" name=".notdef"/>
+      <map code="0xc7" name=".notdef"/>
+      <map code="0xc8" name=".notdef"/>
+      <map code="0xc9" name=".notdef"/>
+      <map code="0xca" name=".notdef"/>
+      <map code="0xcb" name=".notdef"/>
+      <map code="0xcc" name=".notdef"/>
+      <map code="0xcd" name=".notdef"/>
+      <map code="0xce" name=".notdef"/>
+      <map code="0xcf" name=".notdef"/>
+      <map code="0xd0" name=".notdef"/>
+      <map code="0xd1" name=".notdef"/>
+      <map code="0xd2" name=".notdef"/>
+      <map code="0xd3" name=".notdef"/>
+      <map code="0xd4" name=".notdef"/>
+      <map code="0xd5" name=".notdef"/>
+      <map code="0xd6" name=".notdef"/>
+      <map code="0xd7" name=".notdef"/>
+      <map code="0xd8" name=".notdef"/>
+      <map code="0xd9" name=".notdef"/>
+      <map code="0xda" name=".notdef"/>
+      <map code="0xdb" name=".notdef"/>
+      <map code="0xdc" name=".notdef"/>
+      <map code="0xdd" name=".notdef"/>
+      <map code="0xde" name=".notdef"/>
+      <map code="0xdf" name=".notdef"/>
+      <map code="0xe0" name=".notdef"/>
+      <map code="0xe1" name=".notdef"/>
+      <map code="0xe2" name=".notdef"/>
+      <map code="0xe3" name=".notdef"/>
+      <map code="0xe4" name=".notdef"/>
+      <map code="0xe5" name=".notdef"/>
+      <map code="0xe6" name=".notdef"/>
+      <map code="0xe7" name=".notdef"/>
+      <map code="0xe8" name=".notdef"/>
+      <map code="0xe9" name=".notdef"/>
+      <map code="0xea" name=".notdef"/>
+      <map code="0xeb" name=".notdef"/>
+      <map code="0xec" name=".notdef"/>
+      <map code="0xed" name=".notdef"/>
+      <map code="0xee" name=".notdef"/>
+      <map code="0xef" name=".notdef"/>
+      <map code="0xf0" name=".notdef"/>
+      <map code="0xf1" name=".notdef"/>
+      <map code="0xf2" name=".notdef"/>
+      <map code="0xf3" name=".notdef"/>
+      <map code="0xf4" name=".notdef"/>
+      <map code="0xf5" name=".notdef"/>
+      <map code="0xf6" name=".notdef"/>
+      <map code="0xf7" name=".notdef"/>
+      <map code="0xf8" name=".notdef"/>
+      <map code="0xf9" name=".notdef"/>
+      <map code="0xfa" name=".notdef"/>
+      <map code="0xfb" name=".notdef"/>
+      <map code="0xfc" name=".notdef"/>
+      <map code="0xfd" name=".notdef"/>
+      <map code="0xfe" name=".notdef"/>
+      <map code="0xff" name=".notdef"/>
+    </cmap_format_0>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0xd" name="nonmarkingreturn"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0xe01" name="uni0E01"/><!-- THAI CHARACTER KO KAI -->
+      <map code="0xe02" name="uni0E02"/><!-- THAI CHARACTER KHO KHAI -->
+      <map code="0xe03" name="uni0E03"/><!-- THAI CHARACTER KHO KHUAT -->
+      <map code="0xe04" name="uni0E04"/><!-- THAI CHARACTER KHO KHWAI -->
+      <map code="0xe05" name="uni0E05"/><!-- THAI CHARACTER KHO KHON -->
+      <map code="0xe06" name="uni0E06"/><!-- THAI CHARACTER KHO RAKHANG -->
+      <map code="0xe07" name="uni0E07"/><!-- THAI CHARACTER NGO NGU -->
+      <map code="0xe08" name="uni0E08"/><!-- THAI CHARACTER CHO CHAN -->
+      <map code="0xe09" name="uni0E09"/><!-- THAI CHARACTER CHO CHING -->
+      <map code="0xe0a" name="uni0E0A"/><!-- THAI CHARACTER CHO CHANG -->
+      <map code="0xe0b" name="uni0E0B"/><!-- THAI CHARACTER SO SO -->
+      <map code="0xe0c" name="uni0E0C"/><!-- THAI CHARACTER CHO CHOE -->
+      <map code="0xe0d" name="uni0E0D"/><!-- THAI CHARACTER YO YING -->
+      <map code="0xe0e" name="uni0E0E"/><!-- THAI CHARACTER DO CHADA -->
+      <map code="0xe0f" name="uni0E0F"/><!-- THAI CHARACTER TO PATAK -->
+      <map code="0xe10" name="uni0E10"/><!-- THAI CHARACTER THO THAN -->
+      <map code="0xe11" name="uni0E11"/><!-- THAI CHARACTER THO NANGMONTHO -->
+      <map code="0xe12" name="uni0E12"/><!-- THAI CHARACTER THO PHUTHAO -->
+      <map code="0xe13" name="uni0E13"/><!-- THAI CHARACTER NO NEN -->
+      <map code="0xe14" name="uni0E14"/><!-- THAI CHARACTER DO DEK -->
+      <map code="0xe15" name="uni0E15"/><!-- THAI CHARACTER TO TAO -->
+      <map code="0xe16" name="uni0E16"/><!-- THAI CHARACTER THO THUNG -->
+      <map code="0xe17" name="uni0E17"/><!-- THAI CHARACTER THO THAHAN -->
+      <map code="0xe18" name="uni0E18"/><!-- THAI CHARACTER THO THONG -->
+      <map code="0xe19" name="uni0E19"/><!-- THAI CHARACTER NO NU -->
+      <map code="0xe1a" name="uni0E1A"/><!-- THAI CHARACTER BO BAIMAI -->
+      <map code="0xe1b" name="uni0E1B"/><!-- THAI CHARACTER PO PLA -->
+      <map code="0xe1c" name="uni0E1C"/><!-- THAI CHARACTER PHO PHUNG -->
+      <map code="0xe1d" name="uni0E1D"/><!-- THAI CHARACTER FO FA -->
+      <map code="0xe1e" name="uni0E1E"/><!-- THAI CHARACTER PHO PHAN -->
+      <map code="0xe1f" name="uni0E1F"/><!-- THAI CHARACTER FO FAN -->
+      <map code="0xe20" name="uni0E20"/><!-- THAI CHARACTER PHO SAMPHAO -->
+      <map code="0xe21" name="uni0E21"/><!-- THAI CHARACTER MO MA -->
+      <map code="0xe22" name="uni0E22"/><!-- THAI CHARACTER YO YAK -->
+      <map code="0xe23" name="uni0E23"/><!-- THAI CHARACTER RO RUA -->
+      <map code="0xe24" name="uni0E24"/><!-- THAI CHARACTER RU -->
+      <map code="0xe25" name="uni0E25"/><!-- THAI CHARACTER LO LING -->
+      <map code="0xe26" name="uni0E26"/><!-- THAI CHARACTER LU -->
+      <map code="0xe27" name="uni0E27"/><!-- THAI CHARACTER WO WAEN -->
+      <map code="0xe28" name="uni0E28"/><!-- THAI CHARACTER SO SALA -->
+      <map code="0xe29" name="uni0E29"/><!-- THAI CHARACTER SO RUSI -->
+      <map code="0xe2a" name="uni0E2A"/><!-- THAI CHARACTER SO SUA -->
+      <map code="0xe2b" name="uni0E2B"/><!-- THAI CHARACTER HO HIP -->
+      <map code="0xe2c" name="uni0E2C"/><!-- THAI CHARACTER LO CHULA -->
+      <map code="0xe2d" name="uni0E2D"/><!-- THAI CHARACTER O ANG -->
+      <map code="0xe2e" name="uni0E2E"/><!-- THAI CHARACTER HO NOKHUK -->
+      <map code="0xe2f" name="uni0E2F"/><!-- THAI CHARACTER PAIYANNOI -->
+      <map code="0xe30" name="uni0E30"/><!-- THAI CHARACTER SARA A -->
+      <map code="0xe31" name="uni0E31"/><!-- THAI CHARACTER MAI HAN-AKAT -->
+      <map code="0xe32" name="uni0E32"/><!-- THAI CHARACTER SARA AA -->
+      <map code="0xe33" name="uni0E33"/><!-- THAI CHARACTER SARA AM -->
+      <map code="0xe34" name="uni0E34"/><!-- THAI CHARACTER SARA I -->
+      <map code="0xe35" name="uni0E35"/><!-- THAI CHARACTER SARA II -->
+      <map code="0xe36" name="uni0E36"/><!-- THAI CHARACTER SARA UE -->
+      <map code="0xe37" name="uni0E37"/><!-- THAI CHARACTER SARA UEE -->
+      <map code="0xe38" name="uni0E38"/><!-- THAI CHARACTER SARA U -->
+      <map code="0xe39" name="uni0E39"/><!-- THAI CHARACTER SARA UU -->
+      <map code="0xe3a" name="uni0E3A"/><!-- THAI CHARACTER PHINTHU -->
+      <map code="0xe3f" name="uni0E3F"/><!-- THAI CURRENCY SYMBOL BAHT -->
+      <map code="0xe40" name="uni0E40"/><!-- THAI CHARACTER SARA E -->
+      <map code="0xe41" name="uni0E41"/><!-- THAI CHARACTER SARA AE -->
+      <map code="0xe42" name="uni0E42"/><!-- THAI CHARACTER SARA O -->
+      <map code="0xe43" name="uni0E43"/><!-- THAI CHARACTER SARA AI MAIMUAN -->
+      <map code="0xe44" name="uni0E44"/><!-- THAI CHARACTER SARA AI MAIMALAI -->
+      <map code="0xe45" name="uni0E45"/><!-- THAI CHARACTER LAKKHANGYAO -->
+      <map code="0xe46" name="uni0E46"/><!-- THAI CHARACTER MAIYAMOK -->
+      <map code="0xe47" name="uni0E47"/><!-- THAI CHARACTER MAITAIKHU -->
+      <map code="0xe48" name="uni0E48.small"/><!-- THAI CHARACTER MAI EK -->
+      <map code="0xe49" name="uni0E49.small"/><!-- THAI CHARACTER MAI THO -->
+      <map code="0xe4a" name="uni0E4A.small"/><!-- THAI CHARACTER MAI TRI -->
+      <map code="0xe4b" name="uni0E4B.small"/><!-- THAI CHARACTER MAI CHATTAWA -->
+      <map code="0xe4c" name="uni0E4C.small"/><!-- THAI CHARACTER THANTHAKHAT -->
+      <map code="0xe4d" name="uni0E4D"/><!-- THAI CHARACTER NIKHAHIT -->
+      <map code="0xe4e" name="uni0E4E"/><!-- THAI CHARACTER YAMAKKAN -->
+      <map code="0xe4f" name="uni0E4F"/><!-- THAI CHARACTER FONGMAN -->
+      <map code="0xe50" name="uni0E50"/><!-- THAI DIGIT ZERO -->
+      <map code="0xe51" name="uni0E51"/><!-- THAI DIGIT ONE -->
+      <map code="0xe52" name="uni0E52"/><!-- THAI DIGIT TWO -->
+      <map code="0xe53" name="uni0E53"/><!-- THAI DIGIT THREE -->
+      <map code="0xe54" name="uni0E54"/><!-- THAI DIGIT FOUR -->
+      <map code="0xe55" name="uni0E55"/><!-- THAI DIGIT FIVE -->
+      <map code="0xe56" name="uni0E56"/><!-- THAI DIGIT SIX -->
+      <map code="0xe57" name="uni0E57"/><!-- THAI DIGIT SEVEN -->
+      <map code="0xe58" name="uni0E58"/><!-- THAI DIGIT EIGHT -->
+      <map code="0xe59" name="uni0E59"/><!-- THAI DIGIT NINE -->
+      <map code="0xe5a" name="uni0E5A"/><!-- THAI CHARACTER ANGKHANKHU -->
+      <map code="0xe5b" name="uni0E5B"/><!-- THAI CHARACTER KHOMUT -->
+      <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
