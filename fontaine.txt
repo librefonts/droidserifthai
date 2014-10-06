@@ -1,0 +1,68 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Droid Serif Thai
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Digitized data copyright Google Corporation © 2011
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00
+    Vendor: Ascender Corporation
+    Vendor url: http://www.ascendercorp.com/
+    Designer: Steve Matteson
+    Designer url: http://www.ascendercorp.com/typedesigners.html
+    Glyph count: 100
+    Character count: 91
+    Orthographies:
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 11
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 7
+  Font:
+    Common name: DroidSerifThai
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Digitized data copyright Google Corporation © 2011
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00
+    Vendor: Ascender Corporation
+    Vendor url: http://www.ascendercorp.com/
+    Designer: Steve Matteson
+    Designer url: http://www.ascendercorp.com/typedesigners.html
+    Glyph count: 100
+    Character count: 91
+    Orthographies:
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 11
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 7
